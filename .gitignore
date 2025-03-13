@@ -2,3 +2,4 @@
 *.pyc
 *venv*
 *embeddings*
+.DS_Store
