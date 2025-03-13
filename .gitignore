@@ -2,3 +2,5 @@
 *.pyc
 *venv*
 *embeddings*
+.DS_Store
+node_modules
